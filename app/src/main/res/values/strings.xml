@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zend Desk Sample Chat</string>
+
+    <string name="help_button">Help Center</string>
+</resources>
